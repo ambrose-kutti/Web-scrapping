@@ -99,8 +99,8 @@ while queue:
     time.sleep(1.5)  # polite delay
 
 # Save all textual content to JSON
-os.makedirs("odisha_bank_text", exist_ok=True)
-with open("odisha_bank_text/pages_text.json", "w", encoding="utf-8") as f:
+os.makedirs("text_folder", exist_ok=True)
+with open("text_folder/pages_text.json", "w", encoding="utf-8") as f:
     json.dump(pages_text, f, ensure_ascii=False, indent=2)
 
-print("Saved text of", len(pages_text), "pages to odisha_bank_text/pages_text.json")
+print("Saved text of", len(pages_text), "pages to text_folder/pages_text.json")
