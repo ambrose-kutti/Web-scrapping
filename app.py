@@ -15,7 +15,7 @@ queue = deque([BASE_URL])
 pages_data = []
 all_doc_links = set()
 
-OUTPUT_DIR = "odisha_bank_dump"
+OUTPUT_DIR = "dump_folder" #you can give any name
 DOC_DIR = os.path.join(OUTPUT_DIR, "docs")
 os.makedirs(DOC_DIR, exist_ok=True)
 
