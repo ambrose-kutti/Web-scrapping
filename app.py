@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from collections import deque
 
-BASE_URL = "https://odishabank.bank.in/"
+BASE_URL = "(THE WEBISTE URL)"
 DOMAIN = urlparse(BASE_URL).netloc
 
 visited = set()
