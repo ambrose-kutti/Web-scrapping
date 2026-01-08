@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "  " #your xhr type request URL here
+url = "  "#your xhr type request URL here
 headers = {
     "User-Agent": "Mozilla/5.0",
     "X-Requested-With": "XMLHttpRequest"
