@@ -1,7 +1,5 @@
 .venv
 .vscode
 chroma_db
-odisha_bank_dump
-odisha_bank_text
 ch.txt
 chunking.py
