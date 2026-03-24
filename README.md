@@ -38,7 +38,7 @@ This repository offers a practical demonstration of web scraping techniques usin
 
 Before you begin, ensure you have the following installed:
 
-*   **Python 3.x** (preferably 3.8 or newer)
+*   **Python 3.x** (preferably 3.9 or newer)
 
 ### Installation
 
