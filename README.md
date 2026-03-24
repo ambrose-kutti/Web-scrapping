@@ -1,22 +1,5 @@
 
 
-## 📖 Usage
-
-**1. Crawl and Download Documents**
-
-python text_scrap.py
-
-    → Crawls from BASE_URL
-    → Saves metadata in dump_folder/pages_data.json
-    → Downloads documents into dump_folder/docs/
-    
-**2. Extract Text Content**
-
-python file_scrap.py
-
-    → Crawls from BASE_URL
-    → Saves text into text_folder/pages_text.json
-
 **3. Parse XHR/JSON Table**
 
 python scrap_table.py
