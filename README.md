@@ -1,9 +1,3 @@
-# Web Scraping Toolkit 🕸️📑
-
-A modular set of Python scripts for scraping websites, extracting structured text, downloading documents, and parsing JSON/XHR responses.  
-Designed for engineers who need reproducible, production‑ready scraping workflows with polite crawling and robust error handling.
-
----
 
 ## 📂 Project Structure
 
