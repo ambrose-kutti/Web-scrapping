@@ -1,11 +1,5 @@
 
-## 📂 Project Structure
 
-- **text scrap.py** → Crawls a website, extracts page text, collects document links (PDF, DOC, XLS), and downloads them.
-- **file scrap.py** → Focused on extracting visible text content from HTML pages into JSON.
-- **scrap table.py** → Handles XHR/JSON endpoints, parsing tabular data (e.g., names, roles, phone, email) into text files.
-
----
 ## 📖 Usage
 
 **1. Crawl and Download Documents**
