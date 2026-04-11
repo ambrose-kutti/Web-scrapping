@@ -11,7 +11,6 @@ DOMAIN = urlparse(BASE_URL).netloc
 
 visited = set()
 queue = deque([BASE_URL])
-
 pages_text = []
 
 HEADERS = {
