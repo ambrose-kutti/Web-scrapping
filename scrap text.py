@@ -8,10 +8,8 @@ from collections import deque
 
 BASE_URL = "(THE WEBISTE URL)"
 DOMAIN = urlparse(BASE_URL).netloc
-
 visited = set()
 queue = deque([BASE_URL])
-
 pages_data = []
 all_doc_links = set()
 
