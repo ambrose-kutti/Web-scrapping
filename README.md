@@ -1,6 +1,6 @@
 # 🕸️ Web Scrapping Utilities
 
-<div align="center">
+<div align="center"> 
 
 [![GitHub stars](https://img.shields.io/github/stars/ambrose-kutti/Web-scrapping?style=for-the-badge)](https://github.com/ambrose-kutti/Web-scrapping/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ambrose-kutti/Web-scrapping?style=for-the-badge)](https://github.com/ambrose-kutti/Web-scrapping/network)
