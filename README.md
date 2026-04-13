@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ambrose-kutti/Web-scrapping?style=for-the-badge)](https://github.com/ambrose-kutti/Web-scrapping/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ambrose-kutti/Web-scrapping?style=for-the-badge)](https://github.com/ambrose-kutti/Web-scrapping/network)
 [![GitHub issues](https://img.shields.io/github/issues/ambrose-kutti/Web-scrapping?style=for-the-badge)](https://github.com/ambrose-kutti/Web-scrapping/issues)
-
+[![GitHub license](https://img.shields.io/github/license/ambrose-kutti/n8n-news-digest?style=for-the-badge)](https://github.com/ambrose-kutti/n8n-news-digest/LICENSE)
 **A collection of Python scripts for simplified and structured web data extraction.**
 
 </div>
