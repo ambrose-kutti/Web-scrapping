@@ -31,7 +31,7 @@ This repository offers a practical demonstration of web scraping techniques usin
 **Libraries:**
 [![Requests](https://img.shields.io/badge/requests-2.31.0-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://requests.readthedocs.io/en/latest/)
 [![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-4.12.2-green.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[![lxml](https://img.shields.io/badge/lxml-4.9.3-lightgray.svg?style=for-the-badge&logo=python&logoColor=white)](https://lxml.de/)
+[![lxml](https://img.shields.io/badge/lxml-4.9.3-pink.svg?style=for-the-badge&logo=python&logoColor=white)](https://lxml.de/)
 
 ## 🚀 Quick Start
 
